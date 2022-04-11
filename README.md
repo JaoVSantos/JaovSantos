@@ -1,8 +1,8 @@
 ### Eae pessoal! Eu sou João Vitor!
 - 🔭 sou estágiario em Engenharia de automação e confiabilidade.
-- 🌱 estou aprendendo as linguagens de programação e frameworks como foco de backend(python, django).
+- 🌱 estou aprendendo as linguagens de programação e Data Science para me tornar um grande cientista de dados.
 - 👯 estou procurando uma vaga de estágiario ou junior para aprender com problemas de verdade.
-- 🤔 estou procurando participar e aprender programas reais de python/django.
+- 🤔 estou procurando participar e aprender problemas reais com dados e até a parte de backend.
 
 <div align="center">
 <a href="https://github.com/JaoVSantos">
