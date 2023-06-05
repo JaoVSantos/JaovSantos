@@ -1,8 +1,8 @@
 ### Eae pessoal! Eu sou João Vitor!
-- 🔭 sou estágiario em Engenharia de automação e confiabilidade.
-- 🌱 estou aprendendo as linguagens de programação e Data Science para me tornar um grande cientista de dados.
-- 👯 estou procurando uma vaga de estágiario ou junior para aprender com problemas de verdade.
-- 🤔 estou procurando participar e aprender problemas reais com dados e até a parte de backend.
+- 🔭 sou programador junior em php e também JS(Svelte).
+- 🌱 estou aprendendo e melhorando cada vez mais para que um dia me torne um programador que consiga passar conhecimento para frente.
+- 👯 Ja trabalhei com a Linguaguem do SAP que é a ABAP e também ja fiz outros projetos dentro do SAP.
+- 🤔 estou procurando participar e aprender problemas reais com php, js e também até ciencia de dados, que são áreas que eu atuo e admiro.
 
 <div align="center">
 <a href="https://github.com/JaoVSantos">
