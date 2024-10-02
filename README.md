@@ -1,5 +1,5 @@
 ### Eae pessoal! Eu sou João Vitor!
-- 🔭 sou Analista de Dados Junior.
+- 🔭 sou Analista de Dados.
 - 🌱 estou aprendendo e melhorando cada vez mais para que um dia me torne um programador que consiga passar conhecimento para frente.
 - 👯 Ja trabalhei com a Linguaguem do SAP que é a ABAP e também ja fiz outros projetos dentro do SAP.
 - 🤔 estou procurando participar e aprender problemas reais com a área de dados que são áreas que eu atuo e admiro.
