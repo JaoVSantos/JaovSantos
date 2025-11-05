@@ -1,20 +1,25 @@
-# 👋 Olá, eu sou João Vitor!
+# 👋 Olá, eu sou o João Vitor!
 
-Sou desenvolvedor em transição, unindo minha base sólida em **análise de dados** com um foco crescente em **desenvolvimento .NET**. Apaixonado por tecnologia, gosto de resolver problemas reais com soluções que agreguem valor ao negócio — seja através de automação, integração de sistemas ou visualização de dados.
+🎯 Desenvolvedor .NET em transição com forte background em Análise de Dados.  
+🚀 Apaixonado por tecnologia, automação e soluções que agregam valor ao negócio.  
+🌐 Focado em criar sistemas robustos, eficientes e integrados com dados e nuvem.
 
-### 🚀 Atualmente estou focado em:
-- Desenvolvimento de sistemas com **C#**, **.NET Framework**, **Windows Forms** e **APIs REST**
-- Integração de dados com **SQL Server**, **Power BI** e **Python**
-- Aprendizado contínuo em **ASP.NET**, **Docker**, **Kubernetes** e **AWS**
-- Boas práticas de arquitetura, versionamento com Git e clean code
+## 👨‍💻 Sobre mim
 
-### 💼 Experiência
-- Atuei com **automação de rotinas**, **dashboards interativos** e **monitoramento de processos**
-- Experiência anterior com **SAP ABAP** em projetos internos
-- Forte base em **tratamento de dados**, **modelagem relacional** e **criação de indicadores**
+Atuo atualmente como programador .NET, com experiência no desenvolvimento de sistemas usando C#, Windows Forms, WPF e APIs REST. Tenho quase dois anos de experiência em análise e visualização de dados, onde utilizei Python, SQL, Power BI e Qlik para gerar insights estratégicos e automatizar processos.
 
-### 🌱 Em aprendizado contínuo
-Busco evoluir como desenvolvedor back-end, com objetivo de colaborar em projetos que envolvam **.NET**, **cloud computing** e **data pipelines**.
+Sou formado em Ciência de Dados pela Comunidade DS e estou expandindo meus conhecimentos em Cloud Computing com foco em AWS (via Escola da Nuvem).
+
+Tenho um grande interesse em integração de aplicações com pipelines de dados, automação de processos e boas práticas de desenvolvimento. Já trabalhei também com SAP (ABAP), o que complementa minha visão de sistemas corporativos.
+
+## 🛠️ Tecnologias e Ferramentas
+
+- **Linguagens**: C# (.NET), Python, SQL
+- **Desenvolvimento .NET**: Windows Forms, WPF, ASP.NET, APIs REST, automação de processos
+- **BI e Visualização**: Power BI, Qlik, Tableau
+- **Bancos de Dados**: SQL Server, MySQL
+- **Cloud & DevOps**: AWS (em aprendizado), Docker (básico)
+- **Outros**: ETL, automação de rotinas, limpeza e tratamento de dados
 
 
 <div align="center">
