@@ -1,8 +1,21 @@
-### Eae pessoal! Eu sou João Vitor!
-- 🔭 sou Analista de Dados.
-- 🌱 estou aprendendo e melhorando cada vez mais para que um dia me torne um programador que consiga passar conhecimento para frente.
-- 👯 Ja trabalhei com a Linguaguem do SAP que é a ABAP e também ja fiz outros projetos dentro do SAP.
-- 🤔 estou procurando participar e aprender problemas reais com a área de dados que são áreas que eu atuo e admiro.
+# 👋 Olá, eu sou João Vitor!
+
+Sou desenvolvedor em transição, unindo minha base sólida em **análise de dados** com um foco crescente em **desenvolvimento .NET**. Apaixonado por tecnologia, gosto de resolver problemas reais com soluções que agreguem valor ao negócio — seja através de automação, integração de sistemas ou visualização de dados.
+
+### 🚀 Atualmente estou focado em:
+- Desenvolvimento de sistemas com **C#**, **.NET Framework**, **Windows Forms** e **APIs REST**
+- Integração de dados com **SQL Server**, **Power BI** e **Python**
+- Aprendizado contínuo em **ASP.NET**, **Docker**, **Kubernetes** e **AWS**
+- Boas práticas de arquitetura, versionamento com Git e clean code
+
+### 💼 Experiência
+- Atuei com **automação de rotinas**, **dashboards interativos** e **monitoramento de processos**
+- Experiência anterior com **SAP ABAP** em projetos internos
+- Forte base em **tratamento de dados**, **modelagem relacional** e **criação de indicadores**
+
+### 🌱 Em aprendizado contínuo
+Busco evoluir como desenvolvedor back-end, com objetivo de colaborar em projetos que envolvam **.NET**, **cloud computing** e **data pipelines**.
+
 
 <div align="center">
 <a href="https://github.com/JaoVSantos">
